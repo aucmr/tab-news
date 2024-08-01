@@ -1,0 +1,17 @@
+{
+  "name": "tab-news",
+  "version": "1.0.0",
+  "description": "A stuudy guide for tab-news by Felipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "author": "Auciomar Cerqueira",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
