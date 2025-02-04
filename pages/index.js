@@ -6,6 +6,7 @@ function Home() {
             <br></br>
             <ul>
                 <li>"Os juros compostos são a oitava maravilha do mundo. Aquele que entende, ganha; aquele que não entende, paga." (Albert Einstein)</li>
+                <li>"O sucesso não é sobre quanto dinheiro você ganha, mas sobre o impacto que você cria."</li>
             </ul>
         </div>
     );
