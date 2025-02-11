@@ -4,8 +4,6 @@ function Home() {
       <h1>Bem vindos!</h1>
       <p>Esta página é para vocês, otipopos da minha vida.</p>
 
-      <br />
-
       <h2>Pensamentos</h2>
       <ul>
         <li>
@@ -17,8 +15,6 @@ function Home() {
           que você cria."
         </li>
       </ul>
-
-      <br />
 
       <h2>Leitura Diária</h2>
       <ul>
@@ -55,6 +51,14 @@ function Home() {
         <li>
           <a href="https://comunidade.auvp.com.br/" target="_blank">
             Comunidade AUVP
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.tesourodireto.com.br/titulos/precos-e-taxas.htm"
+            target="_blank"
+          >
+            Tesouro Nacional
           </a>
         </li>
       </ul>
