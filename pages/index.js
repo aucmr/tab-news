@@ -3,7 +3,10 @@ function Home() {
     <div>
       <h1>Bem vindos!</h1>
       <p>Esta página é para vocês, otipopos da minha vida.</p>
-      <p>Pensamentos:</p>
+
+      <br />
+
+      <h2>Pensamentos</h2>
       <ul>
         <li>
           "Os juros compostos são a oitava maravilha do mundo. Aquele que
@@ -15,11 +18,13 @@ function Home() {
         </li>
       </ul>
 
-      <h2>Leitura Diária:</h2>
+      <br />
+
+      <h2>Leitura Diária</h2>
       <ul>
         <li>
           <a href="https://g1.globo.com/mg/minas-gerais/" target="_blank">
-            G1 MG
+            G1 - MG
           </a>
         </li>
         <li>
@@ -39,7 +44,7 @@ function Home() {
         </li>
         <li>
           <a href="https://www.infomoney.com.br/" target="_blank">
-            infomonney
+            Infomonney
           </a>
         </li>
         <li>
