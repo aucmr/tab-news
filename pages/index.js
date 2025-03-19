@@ -61,6 +61,16 @@ function Home() {
             Tesouro Nacional
           </a>
         </li>
+        <li>
+          <a href="https://neofeed.com.br" target="_blank">
+            Neo Feed
+          </a>
+        </li>
+        <li>
+          <a href="https://www.tabnews.com.br" target="_blank">
+            Tab News
+          </a>
+        </li>
       </ul>
     </div>
   );
