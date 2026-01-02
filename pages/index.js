@@ -20,7 +20,7 @@ function Home() {
       <ul>
         <li>
           <a href="https://g1.globo.com/" target="_blank">
-            G1 - MG
+            G1
           </a>
         </li>
         <li>
