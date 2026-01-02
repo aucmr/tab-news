@@ -19,7 +19,7 @@ function Home() {
       <h2>Leitura Diária</h2>
       <ul>
         <li>
-          <a href="https://g1.globo.com/mg/minas-gerais/" target="_blank">
+          <a href="https://g1.globo.com/" target="_blank">
             G1 - MG
           </a>
         </li>
